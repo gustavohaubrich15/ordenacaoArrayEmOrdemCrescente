@@ -1,0 +1,12 @@
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.exe
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.deps.json
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.json
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.runtimeconfig.dev.json
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.dll
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\bin\Debug\netcoreapp3.1\Exercicio4.pdb
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.AssemblyInfo.cs
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.dll
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.pdb
+C:\Users\ghaubrich\Documents\exercicicos\primeiro\ArrayMatrizes\Exercicio4\Exercicio4\obj\Debug\netcoreapp3.1\Exercicio4.genruntimeconfig.cache
